@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-"In the realm of artificial intelligence, which technique is predominantly used in ChatGPT for language understanding?",a: Regression analysis | b: Decision trees | c: Machine learning | d: Trigonometry,c
-What is one of the defining features of ChatGPT mentioned in the text?,a: Ability to bake cookies | b: Ability to engage in contextually relevant conversations | c: Ability to fly | d: Ability to teleport,b
-Which technique does ChatGPT leverage to capture long-range dependencies within text?,a: Attention mechanisms | b: Algebraic equations | c: Geometry theorems | d: Calculus derivatives,a
-What is one of the language generation capabilities of ChatGPT mentioned in the text?,a: Playing the piano | b: Producing fluent and diverse responses | c: Painting portraits | d: Cooking gourmet meals,b
-Which task is NOT mentioned as a proficiency of ChatGPT in the text?,a: Text summarization | b: Translation | c: Sentiment analysis | d: Solving trigonometric equations,d
+What trigonometric concept is ChatGPT compared to in the text?,a: Sine function | b: Cosine function | c: Tangent function | d: Inverse trigonometric functions,c
+How is ChatGPT described in terms of language understanding?,"a: It struggles with syntax and semantics | b: It exhibits a profound understanding of language semantics, syntax, and context | c: It is limited to basic vocabulary | d: It only generates random text",b
+What technique does ChatGPT use for capturing long-range dependencies within text?,a: Fourier transform | b: Attention mechanisms | c: Linear regression | d: Support Vector Machines,b
+What is one of the tasks mentioned that ChatGPT is proficient in?,a: Image recognition | b: Sentiment analysis | c: Weather prediction | d: Music composition,b
+How does ChatGPT's responsiveness compare to traditional chatbots?,a: ChatGPT is less responsive | b: ChatGPT is equally responsive | c: ChatGPT is more responsive | d: ChatGPT cannot respond in real-time,c
