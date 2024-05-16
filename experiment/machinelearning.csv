@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What trigonometric concept is ChatGPT compared to in the text?,a: Sine function | b: Cosine function | c: Tangent function | d: Inverse trigonometric functions,c
-How is ChatGPT described in terms of language understanding?,"a: It struggles with syntax and semantics | b: It exhibits a profound understanding of language semantics, syntax, and context | c: It is limited to basic vocabulary | d: It only generates random text",b
-What technique does ChatGPT use for capturing long-range dependencies within text?,a: Fourier transform | b: Attention mechanisms | c: Linear regression | d: Support Vector Machines,b
-What is one of the tasks mentioned that ChatGPT is proficient in?,a: Image recognition | b: Sentiment analysis | c: Weather prediction | d: Music composition,b
-How does ChatGPT's responsiveness compare to traditional chatbots?,a: ChatGPT is less responsive | b: ChatGPT is equally responsive | c: ChatGPT is more responsive | d: ChatGPT cannot respond in real-time,c
+"In a right triangle, if the tangent of an angle is equal to 0.75, what is the value of the cosine of that angle?",a: 0.6 | b: 0.8 | c: 0.4 | d: 0.3,a
+"Given a triangle with sides of lengths 5, 12, and 13 units, what is the measure of the smallest angle in the triangle?",a: 30 degrees | b: 45 degrees | c: 60 degrees | d: 90 degrees,d
+"If sin(x) = 0.8 and x is in the first quadrant, what is the value of cos(x)?",a: 0.6 | b: 0.3 | c: 0.4 | d: 0.2,b
+"For a triangle with angles measuring 30 degrees, 60 degrees, and 90 degrees, what is the ratio of the side opposite the 60-degree angle to the hypotenuse?",a: 1:√3 | b: 1:2 | c: 1:√2 | d: √3:2,a
+"If tan(x) = 1.5 and x is in the second quadrant, what is the value of sin(x)?",a: 0.4 | b: 0.6 | c: 0.8 | d: 0.2,b
